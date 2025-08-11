@@ -1,0 +1,1 @@
+python detect.py --weights runs/train/indoor_fresh_run/weights/best.pt --source 0 --conf 0.25 --data "D:/indoor objects/indoor.yaml"

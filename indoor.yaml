@@ -1,0 +1,6 @@
+path: D:/indoor objects
+train: train/images
+val: test/images
+
+nc: 10
+names: ['chair', 'table', 'fan', 'tv', 'lamp', 'bottle', 'cup', 'bag', 'remote', 'book']
